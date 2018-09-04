@@ -9,20 +9,20 @@
 	"dependencies": {
 		"express": "^4.12.4",
 		"body-parser": "^1.15.2",
-		"mongodb":"latest",
-		"mongoose":"latest"
+		"mongodb":"^5.6.0"
 	},
 	"engines": {
 		"node": "4.4.5"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://hyperdev.com/#!/project/welcome-project"
+		"url": "https://github.com/zhangboli51/mongomongoose-gomix.git"
 	},
 	"keywords": [
 		"node",
 		"hyperdev",
 		"express"
 	],
-	"license": "MIT"
+	"license": "MIT",
+	"devDependencies":"^5.6.0"
 }
